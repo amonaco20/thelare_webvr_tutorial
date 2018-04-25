@@ -11,7 +11,7 @@ var drawingRoom = vRViewPlayer('#first-vr-example', {
 window.addEventListener('load', drawingRoom);
 
 var roomDrawing = vRViewPlayer('#second-vr-example', {
-  image: 'https://raw.githubusercontent.com/lare-student/thelare_webvr_tutorial/master/public/assets/hand-drawn-room.jpg',
+  image: 'http://www.johnsear.com/wp-content/uploads/2016/03/word-image50.png',
   is_stereo: false,
 });
 
