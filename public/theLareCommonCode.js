@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://github.com/amonaco20/thelare_webvr_tutorial/edit/master/public/theLareCommonCode.js',
+  image: 'http://www.johnsear.com/wp-content/uploads/2016/03/word-image50.png',
   is_stereo: false,
 });
 
