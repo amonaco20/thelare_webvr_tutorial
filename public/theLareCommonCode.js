@@ -4,14 +4,14 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://www.johnsear.com/wp-content/uploads/2016/03/word-image50.png',
+  image: 'https://photosphereviewer.net/images/demo/demo2_full.jpg',
   is_stereo: false,
 });
 
 window.addEventListener('load', drawingRoom);
 
 var roomDrawing = vRViewPlayer('#second-vr-example', {
-  image: 'http://www.johnsear.com/wp-content/uploads/2016/03/word-image50.png',
+  image: 'https://raw.githubusercontent.com/lare-student/thelare_webvr_tutorial/master/public/assets/hand-drawn-room.jpg',
   is_stereo: false,
 });
 
