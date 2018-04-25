@@ -11,7 +11,7 @@ var drawingRoom = vRViewPlayer('#first-vr-example', {
 window.addEventListener('load', drawingRoom);
 
 var roomDrawing = vRViewPlayer('#second-vr-example', {
-  image: 'http://gearcraft.us/wp-content/uploads/2014/11/minecraft-photosphere1.jpg',
+  image: 'hhttps://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/05/Horeshoe-Bend-PS-730x365.jpg',
   is_stereo: false,
 });
 
