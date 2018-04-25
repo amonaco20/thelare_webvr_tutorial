@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://raw.githubusercontent.com/lare-student/thelare_webvr_tutorial/master/public/assets/underwater-vr.jpg',
+  image: 'https://github.com/amonaco20/thelare_webvr_tutorial/edit/master/public/theLareCommonCode.js',
   is_stereo: false,
 });
 
