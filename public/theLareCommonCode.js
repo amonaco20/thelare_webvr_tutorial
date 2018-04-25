@@ -11,7 +11,7 @@ var drawingRoom = vRViewPlayer('#first-vr-example', {
 window.addEventListener('load', drawingRoom);
 
 var roomDrawing = vRViewPlayer('#second-vr-example', {
-  image: 'hhttps://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/05/Horeshoe-Bend-PS-730x365.jpg',
+  image: 'http://www.ardavey.com/wp-content/uploads/2014/02/2014-02-11-16.06.26.jpg',
   is_stereo: false,
 });
 
